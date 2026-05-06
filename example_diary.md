@@ -154,7 +154,7 @@ except pd.errors.EmptyDataError:
 Use this format for consistent diary entries:
 
 ```markdown
-### Entry [Number] – [Descriptive Title]
+### Entry [1] – [AI Evidence Packages]
 **Artifact:** [Screenshot/code snippet/GIF of AI interaction]
 
 **Context:** [One sentence: what you were trying to achieve]
