@@ -62,3 +62,4 @@ I reviewed the AI-generated data and decided it needed minor adjustment because 
 
 Reflection:
 I learned that AI-generated code or data still needs to be checked against the project requirements. Gemini produced useful sample data, but I needed to compare it with the notebook structure before using it. This helped me practise evaluating AI output instead of accepting it without review.
+<img width="271" height="940" alt="image" src="https://github.com/user-attachments/assets/6b737bf1-dbfb-469a-b7aa-fe4c5610ca13" />
