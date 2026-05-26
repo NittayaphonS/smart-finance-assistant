@@ -81,3 +81,19 @@ I selected a problem that focused on spending awareness and budgeting support be
 Reflection:
 I learned that defining the problem clearly affects later design decisions and helps keep the project focused on user value rather than only technical features.
 <img width="505" height="892" alt="image" src="https://github.com/user-attachments/assets/1904e432-cbb1-4776-a17f-4289f165372b" />
+
+
+
+
+Context:
+I needed to define a clear business problem for the Smart Finance Assistant.
+
+AI Interaction:
+I used AI to brainstorm different finance problems and compare how well they matched the planned features.
+
+Decision:
+I selected a problem focused on making financial planning easier through transaction analysis and conversational advice.
+
+Reflection:
+I learned that defining the problem early helps guide later technical decisions and keeps the project focused on user needs rather than adding random features.
+<img width="760" height="492" alt="image" src="https://github.com/user-attachments/assets/269548ab-ebab-478d-b50d-dcabf6ede371" />
