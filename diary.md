@@ -20,3 +20,23 @@ After updating the validation logic, the notebook correctly detected that the se
 
 Reflection:
 This improvement made the connection test more reliable. I learned that good debugging is not only about fixing the external problem, but also about making the program report failures more clearly.
+
+
+
+
+Week 8 – Debugging hands-on-ai connection
+
+Context:
+I was testing the hands-on-ai connection for my Smart Finance Assistant project.
+
+Problem:
+The AI server still returned a connection error after two attempts.
+
+AI Interaction:
+I used AI to understand why the previous connection test was misleading and how to improve the validation logic.
+
+Decision:
+I updated the code so it checks whether the returned response contains an error message. This made the output more accurate.
+
+Reflection:
+I learned that fixing code does not always mean fixing the external service. In this case, my code became better at detecting the problem, even though the server connection issue still remained. This helped me understand the difference between a coding issue and an external system issue.
