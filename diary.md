@@ -40,3 +40,5 @@ I updated the code so it checks whether the returned response contains an error 
 
 Reflection:
 I learned that fixing code does not always mean fixing the external service. In this case, my code became better at detecting the problem, even though the server connection issue still remained. This helped me understand the difference between a coding issue and an external system issue.
+<img width="331" height="687" alt="image" src="https://github.com/user-attachments/assets/1b0e1023-840b-4c98-ad83-85abc4f3add3" />
+
