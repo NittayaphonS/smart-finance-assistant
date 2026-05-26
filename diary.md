@@ -13,3 +13,8 @@ I decided to rerun the test and check whether the server, model, or API key migh
 Reflection:
 I learned that successful code execution does not always mean the external service worked correctly. I should inspect the actual returned response, not only whether the Python cell ran without crashing.
 <img width="262" height="955" alt="image" src="https://github.com/user-attachments/assets/a319cfb3-dda8-431b-b7e9-d1eedc996d46" />
+Result:
+After updating the validation logic, the notebook correctly detected that the server returned an error. Instead of printing a misleading success message, it now shows “Server returned an error”.
+
+Reflection:
+This improvement made the connection test more reliable. I learned that good debugging is not only about fixing the external problem, but also about making the program report failures more clearly.
