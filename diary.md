@@ -63,3 +63,20 @@ I reviewed the AI-generated data and decided it needed minor adjustment because 
 Reflection:
 I learned that AI-generated code or data still needs to be checked against the project requirements. Gemini produced useful sample data, but I needed to compare it with the notebook structure before using it. This helped me practise evaluating AI output instead of accepting it without review.
 <img width="271" height="940" alt="image" src="https://github.com/user-attachments/assets/6b737bf1-dbfb-469a-b7aa-fe4c5610ca13" />
+
+
+
+
+Week 8 – Defining the Finance Problem
+
+Context:
+I needed to define a clear business problem before building the Smart Finance Assistant.
+
+AI Interaction:
+I used AI to brainstorm different personal finance problems and compare their suitability.
+
+Decision:
+I selected a problem that focused on spending awareness and budgeting support because it aligned with the transaction dataset and project goals.
+
+Reflection:
+I learned that defining the problem clearly affects later design decisions and helps keep the project focused on user value rather than only technical features.
