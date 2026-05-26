@@ -97,3 +97,36 @@ I selected a problem focused on making financial planning easier through transac
 Reflection:
 I learned that defining the problem early helps guide later technical decisions and keeps the project focused on user needs rather than adding random features.
 <img width="760" height="492" alt="image" src="https://github.com/user-attachments/assets/269548ab-ebab-478d-b50d-dcabf6ede371" />
+
+
+Context:
+I needed to define what data the Smart Finance Assistant would use and what useful outputs it should produce.
+
+AI Interaction:
+I used Gemini to help structure the project inputs and outputs based on my problem statement.
+
+Decision:
+I included both technical inputs, such as CSV transaction columns, and business outputs, such as spending summaries and budgeting recommendations.
+
+Reflection:
+I learned that identifying inputs and outputs early makes the project easier to plan because it clarifies what data needs to be cleaned, analysed, and presented to the user.
+<img width="490" height="807" alt="image" src="https://github.com/user-attachments/assets/6a7d5d84-340e-413d-bdda-1df9a5adfe39" />
+
+
+Context:
+I needed to manually work through financial examples before implementing code.
+
+AI Interaction:
+I used Gemini to generate realistic transaction scenarios and explain how to calculate financial insights manually.
+
+Decision:
+I selected examples that reflected common student spending situations and focused on understanding the business logic behind the calculations.
+
+Reflection:
+I learned that manually calculating results first makes it easier to design and verify the later Python implementation.
+<img width="522" height="850" alt="image" src="https://github.com/user-attachments/assets/912f9e10-0cf8-4532-a3eb-c5cee0730ecd" />
+<img width="458" height="677" alt="image" src="https://github.com/user-attachments/assets/819c9192-0099-485e-8b3c-58c8d54814c9" />
+<img width="475" height="757" alt="image" src="https://github.com/user-attachments/assets/a4826cd1-ba8e-4194-80aa-49e965a905a1" />
+<img width="496" height="863" alt="image" src="https://github.com/user-attachments/assets/b3877656-c562-4a2d-9750-cc4feebda6f9" />
+
+
