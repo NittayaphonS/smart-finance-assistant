@@ -80,3 +80,4 @@ I selected a problem that focused on spending awareness and budgeting support be
 
 Reflection:
 I learned that defining the problem clearly affects later design decisions and helps keep the project focused on user value rather than only technical features.
+<img width="505" height="892" alt="image" src="https://github.com/user-attachments/assets/1904e432-cbb1-4776-a17f-4289f165372b" />
