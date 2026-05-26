@@ -1,3 +1,5 @@
+Week 8 — Environment Setup & Connection Debugging
+
 Context:
 I was testing the connection to the hands-on-ai server using get_response().
 
