@@ -42,3 +42,23 @@ Reflection:
 I learned that fixing code does not always mean fixing the external service. In this case, my code became better at detecting the problem, even though the server connection issue still remained. This helped me understand the difference between a coding issue and an external system issue.
 <img width="331" height="687" alt="image" src="https://github.com/user-attachments/assets/1b0e1023-840b-4c98-ad83-85abc4f3add3" />
 
+
+
+
+
+
+
+
+Week 8 – AI-Generated Sample Transaction Data
+
+Context:
+I needed realistic sample transaction data to test the Smart Finance Assistant.
+
+AI Interaction:
+I asked Gemini to create sample financial transaction data using Australian businesses and student-related spending categories.
+
+Decision:
+I reviewed the AI-generated data and decided it needed minor adjustment because my teacher’s starter code used dollar-sign strings for the Amount column. This would allow me to practise data cleaning later.
+
+Reflection:
+I learned that AI-generated code or data still needs to be checked against the project requirements. Gemini produced useful sample data, but I needed to compare it with the notebook structure before using it. This helped me practise evaluating AI output instead of accepting it without review.
